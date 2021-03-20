@@ -1,0 +1,28 @@
+title: Selection of beers
+
+description: A nice beer menu to entertain your guests. This selection covers most categories.
+
+ingredients:
+  - 6 bottles of Brugse Zot Blond
+  - 6 bottles of Westmalle Dubbel
+  - 6 bottles of Triple Karmeliet
+  - 6 bottels of Straffe Hendrik Qaudruple
+  - 6 bottles of Erdinger
+  - 6 bottles of Duvel
+  - 6 bottles of La Trappe Isi d'Or
+  - 6 bottles of Brand Porter
+  - 6 bottles of Kasteel Rouge
+
+prepping:
+  - Make sure to cool the beers to their ideal serving temperature (see bottle)
+  - Make sure to have enough and suitable beer glassware
+  
+cooking:
+  - For the first round, take your friends' orders
+  - Find the right glass and rinse with cold water
+  - Open the bottle and serve with the glass
+  - It's okay for the subsequent rounds to be self-service
+
+picture: beer.png
+
+reference: https://en.wikipedia.org/wiki/Beer_in_Belgium#Belgian_beer_types
